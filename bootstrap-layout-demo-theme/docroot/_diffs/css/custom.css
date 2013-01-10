@@ -1,5 +1,7 @@
 @import "compass";
 
+@import url(bootstrap.css);
+
 @import url(custom_common.css);
 
 /* ---------- Base styles ---------- */
